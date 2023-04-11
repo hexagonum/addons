@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "@types/chrome": "0.0.228",
+    "@types/chrome": "0.0.229",
     "@types/node": "18.15.11",
     "@webpack-cli/generators": "3.0.1",
     "copy-webpack-plugin": "11.0.0",
