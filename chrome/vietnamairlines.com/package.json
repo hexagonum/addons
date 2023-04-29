@@ -8,7 +8,7 @@
   "license": "GNU GPL 3.0",
   "private": true,
   "devDependencies": {
-    "@types/chrome": "0.0.233",
+    "@types/chrome": "0.0.234",
     "@types/node": "18.16.2",
     "@webpack-cli/generators": "3.0.2",
     "copy-webpack-plugin": "11.0.0",
